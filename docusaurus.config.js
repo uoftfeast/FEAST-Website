@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/logo.ico',
 
   // Set the production url of your site here
-  url: 'https://feast.ca',
+  url: 'https://uoftfeast.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/FEAST-Website/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'uoftfeast', // Usually your GitHub org/user name.
   projectName: 'FEAST-Website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
