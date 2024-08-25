@@ -32,9 +32,10 @@
 }
 
 .featureSvg {
-  width: 00px; /* Increased SVG width */
+  width: 40%; /* Increased SVG width */
   height: auto;
-  margin: 0 auto 20px auto;
+  margin: 0 auto 0 auto;
+  display: block;
 }
 
 .featureTitle {
