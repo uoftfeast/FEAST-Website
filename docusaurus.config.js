@@ -144,15 +144,6 @@ const config = {
                 },
             ],
           },
-          // {
-          //   title: 'More',
-          //   items: [
-          //      {
-          //        label: 'Blog',
-          //        to: '/blog',
-          //      },
-          //   ],
-          // },
         ],
         copyright: `FEAST ${new Date().getFullYear()}`,
       },
