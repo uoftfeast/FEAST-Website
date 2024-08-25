@@ -3,5 +3,10 @@ title: Events
 ---
 
 ## Clubs Fair
+<b> Date: </b> Thursday, August 29, 2024
 
-Catch us at the Clubs Fair in Bahen from 11 am to 2 pm!
+<b> Time: </b> 11 am - 2 pm
+
+<b> Where: </b> Bahen
+
+See you there!
