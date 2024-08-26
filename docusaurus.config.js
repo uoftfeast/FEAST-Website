@@ -43,8 +43,6 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -80,12 +78,6 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           {
             to: '/docs/events',
             label: 'Events',
@@ -130,15 +122,15 @@ const config = {
                   html: 
                     `
                     <a href="mailto:filipino.uoftengineering@gmail.com" target="_blank" rel="noreferrer noopener" aria-label="Email">
-                      <img src="img/email-logo.png" alt="Email" style="width: 40px; height: 40px;" />
+                      <img src="https://img.icons8.com/?size=100&id=i3XElI5CmcBP&format=png&color=FFFFFF" alt="Email" style="width: 40px; height: 40px;" />
                     </a>
 
                     <a href="https://www.instagram.com/uoft_feast/" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
-                      <img src="img/instagram-logo.png" alt="Instagram" style="width: 40px; height: 40px;" />
+                      <img src="https://img.icons8.com/?size=100&id=85154&format=png&color=FFFFFF" alt="Instagram" style="width: 40px; height: 40px;" />
                     </a>
 
                     <a href="https://discord.gg/sYA6uAjQwT" target="_blank" rel="noreferrer noopener" aria-label="Discord">
-                      <img src="img/discord-logo.png" alt="Discord" style="width: 40px; height: 40px;" />
+                      <img src="https://img.icons8.com/?size=100&id=30888&format=png&color=FFFFFF" alt="Discord" style="width: 40px; height: 40px;" />
                     </a>
 
                     `,

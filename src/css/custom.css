@@ -14,13 +14,15 @@ h1, h2, h3, h4, h5, h6 {
 .navbar__brand,
 .navbar__item,
 .footer__title,
-.footer__item {
+.footer__item,
+.footer__copyright {
   font-family: 'Maragsa', sans-serif;
 }
 
 /* Additional styles if needed for consistency */
 .navbar__title,
-.footer__title {
+.footer__title 
+{
   font-weight: bold;
 }
 

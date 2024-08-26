@@ -11,7 +11,7 @@ Hey there! My name is Riann and I'm an EngSci 2T6 in the Aerospace option. I lov
 #### Co-President
 Hi guys! I'm Maria, an engsci 2T6 in the robotics option. In my free time, I love playing volleyball, growing plants, and taking care of my cat (Onyx!). My favourite Filipino food is chicken adobo!
 
-## Angeli Desari
+## Angeli Lachica
 #### Vice-President
 Hi!!! My name is Angeli (she/her), I'm a CIV 2T7 + PEY, but an og TrackOne. Reading is how I pass my time 99% of the time and the other 1% is lent to dancing. My favourite Filipino food is Monggo!
 
