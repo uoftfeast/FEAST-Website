@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'FEAST',
-  tagline: 'Filipino Engineering Association of Toronto',
+  tagline: 'Filipino Engineering Association of Students in Toronto',
   favicon: 'img/logo.ico',
 
   // Set the production url of your site here
