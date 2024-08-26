@@ -128,19 +128,20 @@ const config = {
               [
                 {
                   html: 
-                  `
-                    <a href="mailto:filipino.uoftengineering@gmail.com" target="_blank" rel="noreferrer noopener" aria-label="Twitter">
-                    <img src="/img/email-logo.png" alt="Twitter" style="width: 40px; height: 40px;" />
+                    `
+                    <a href="mailto:filipino.uoftengineering@gmail.com" target="_blank" rel="noreferrer noopener" aria-label="Email">
+                      <img src="img/email-logo.png" alt="Email" style="width: 40px; height: 40px;" />
                     </a>
-    
+
                     <a href="https://www.instagram.com/uoft_feast/" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
-                      <img src="/img/instagram-logo.png" alt="Instagram" style="width: 40px; height: 40px;" />
+                      <img src="img/instagram-logo.png" alt="Instagram" style="width: 40px; height: 40px;" />
                     </a>
-    
-                    <a href="https://discord.gg/sYA6uAjQwT" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
-                    <img src="/img/discord-logo.png" alt="Facebook" style="width: 40px; height: 40px;" />
+
+                    <a href="https://discord.gg/sYA6uAjQwT" target="_blank" rel="noreferrer noopener" aria-label="Discord">
+                      <img src="img/discord-logo.png" alt="Discord" style="width: 40px; height: 40px;" />
                     </a>
-                  `,
+
+                    `,
                 },
             ],
           },
