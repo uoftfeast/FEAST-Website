@@ -2,6 +2,7 @@
 title: Events
 ---
 
-## Clubs Fair
-
-Catch us at the Clubs Fair in Bahen from 11 am to 2 pm!
+## Film with FEAST (2026)
+Come join us for an evening of Filipino film watching!
+#### When: TBA
+#### Where: TBA
