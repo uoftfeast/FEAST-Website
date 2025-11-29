@@ -9,18 +9,18 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'FEAST',
-  tagline: 'Filipino Engeering Association of Toronto',
+  tagline: 'Filipino Engineering Association of Students in Toronto',
   favicon: 'img/logo.ico',
 
   // Set the production url of your site here
-  url: 'https://feast.ca',
+  url: 'https://uoftfeast.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/FEAST-Website/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'uoftfeast', // Usually your GitHub org/user name.
   projectName: 'FEAST-Website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -43,8 +43,6 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -80,12 +78,6 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           {
             to: '/docs/events',
             label: 'Events',
@@ -123,29 +115,26 @@ const config = {
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/sYA6uAjQwT',
-              },
-              {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/uoft_feast/',
-              },
-              {
-                label: 'Email',
-                href: 'filipino.uoftengineering@gmail.com',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
+            title: 'Socials',
+            items:           
+              [
+                {
+                  html: 
+                    `
+                    <a href="mailto:filipino.uoftengineering@gmail.com" target="_blank" rel="noreferrer noopener" aria-label="Email">
+                      <img src="https://img.icons8.com/?size=100&id=i3XElI5CmcBP&format=png&color=FFFFFF" alt="Email" style="width: 40px; height: 40px;" />
+                    </a>
+
+                    <a href="https://www.instagram.com/uoft_feast/" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
+                      <img src="https://img.icons8.com/?size=100&id=85154&format=png&color=FFFFFF" alt="Instagram" style="width: 40px; height: 40px;" />
+                    </a>
+
+                    <a href="https://discord.gg/sYA6uAjQwT" target="_blank" rel="noreferrer noopener" aria-label="Discord">
+                      <img src="https://img.icons8.com/?size=100&id=30888&format=png&color=FFFFFF" alt="Discord" style="width: 40px; height: 40px;" />
+                    </a>
+
+                    `,
+                },
             ],
           },
         ],
