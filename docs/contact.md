@@ -1,7 +1,6 @@
 ---
 title: Join Our Team Today!
 ---
-Click [here](https://forms.gle/cTSrnwLJHgKhM7zX8) to apply to be a member!
 
 #### Interact with us on our socials!
 <div style={{ display: 'flex', justifyContent: 'space-around', marginTop: '20px' }}>
