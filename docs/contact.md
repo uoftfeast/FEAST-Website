@@ -2,6 +2,8 @@
 title: Join Our Team Today!
 ---
 
+Click [here](https://forms.gle/cTSrnwLJHgKhM7zX8) to join us!
+
 #### Interact with us on our socials!
 <div style={{ display: 'flex', justifyContent: 'space-around', marginTop: '20px' }}>
   <a href="https://www.instagram.com/uoft_feast/"><img src="https://img.icons8.com/material-outlined/70/instagram-new--v1.png" alt="Instagram" style={{ width: '50px', height: 'auto' }} /></a>
